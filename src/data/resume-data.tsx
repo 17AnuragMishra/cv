@@ -102,6 +102,17 @@ export const RESUME_DATA = {
         label: "barepapers.com",
         href: "https://github.com/17AnuragMishra/Tabs-Reminder-Extension",
       },
+    },
+    {
+      title: "innTrack",
+      techStack: ["Python", "Django", "HTML/CSS", "JavaScript", "APIs", "PostgrSQL"],
+      description:
+        "We are developing a cutting-edge tracking system for logistics, called 'innTrack'.",
+      logo: BarepapersLogo,
+      link: {
+        label: "barepapers.com",
+        href: "https://github.com/17AnuragMishra/innTrack-",
+      },
     }
   ],
 } as const;
